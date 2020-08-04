@@ -1,7 +1,7 @@
 # WeatherQuery
 This python script tells you the weather of a given city.
 
-# How to Use
+# How to use
 1. Run main.py
 2. Key in city name
 3. Get output
