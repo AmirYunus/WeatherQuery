@@ -10,6 +10,6 @@ This python script tells you the weather of a given city.
 1. Show introduction and prompt user for city name
 2. Save city name as a string
 3. Call function get_weather
-3a. Join URL with city name
-3b. Extract JSON using requests module
-3c. Print weather data of city
+4. Join URL with city name
+5. Extract JSON using requests module
+6. Print weather data of city
